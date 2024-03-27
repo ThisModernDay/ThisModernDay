@@ -96,6 +96,14 @@
   
 </details>
 
+<details>
+<summary>My latest YouTube videos</summary>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+</details>
+
 
 <h3 align="left">Support Me:</h3>
 
