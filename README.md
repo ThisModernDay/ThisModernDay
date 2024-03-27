@@ -24,6 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thismodernday&show_icons=true&theme=gruvbox&text_color=cb810d&rank_icon=https://yt3.googleusercontent.com/ytc/AIdro_kC8VGeucshgmJbcK7kivPlYRxeXN2c6p6pfGHP=s176-c-k-c0x00ffffff-no-rj&hide_border=true&locale=en" alt="thismodernday" /></p>
 
+<h1 align="center">My Latest Blender Tutorials</h1>
 <!-- BEGIN YOUTUBE-CARDS -->
 [![I.R.I.S Isn't happy with you #shorts](https://ytcards.demolab.com/?id=gZgR7GOWGQE&title=I.R.I.S+Isn%27t+happy+with+you+%23shorts&lang=en&timestamp=1675890507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I.R.I.S Isn't happy with you #shorts")](https://www.youtube.com/watch?v=gZgR7GOWGQE)
 [![Blender Hard Surface Tutorial - Hangar Stairs](https://ytcards.demolab.com/?id=K1rdE2va7NI&title=Blender+Hard+Surface+Tutorial+-+Hangar+Stairs&lang=en&timestamp=1674425034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Blender Hard Surface Tutorial - Hangar Stairs")](https://www.youtube.com/watch?v=K1rdE2va7NI)
