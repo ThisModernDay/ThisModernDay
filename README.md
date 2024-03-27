@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thismodernday&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="thismodernday" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thismodernday&show_icons=true&theme=gruvbox&text_color=cb810d&icon=https://yt3.googleusercontent.com/ytc/AIdro_kC8VGeucshgmJbcK7kivPlYRxeXN2c6p6pfGHP=s176-c-k-c0x00ffffff-no-rj&hide_border=true&locale=en" alt="thismodernday" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thismodernday&show_icons=true&theme=gruvbox&text_color=cb810d&rank_icon=https://yt3.googleusercontent.com/ytc/AIdro_kC8VGeucshgmJbcK7kivPlYRxeXN2c6p6pfGHP=s176-c-k-c0x00ffffff-no-rj&hide_border=true&locale=en" alt="thismodernday" /></p>
 
