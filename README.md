@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/thismodernday/thismodernday/output/snake.svg" alt="Snake animation" />
+<div align="center"><img src="https://raw.githubusercontent.com/thismodernday/thismodernday/output/snake.svg" width="500px" alt="Snake animation" /></div>
 
 <h2 align="center">👋🏼Hi, I'm Brandon</h2>
 <h4 align="center">I'm a programmer, graphic designer, and 3d artist</h4>
