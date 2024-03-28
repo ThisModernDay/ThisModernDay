@@ -97,6 +97,14 @@
 </details>
 
 <details>
+<summary>My coding stats</summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
+</details>
+
+<details>
 <summary>My latest YouTube videos</summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
