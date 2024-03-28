@@ -100,6 +100,79 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 40.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 45 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+🌆 Daytime                72 commits          ███████████████░░░░░░░░░░   58.06 % 
+🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+🌙 Night                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Tuesday                  20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Saturday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/03/2024 01:27:40 UTC
 <!--END_SECTION:waka-->
   
 </details>
