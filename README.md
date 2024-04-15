@@ -100,6 +100,8 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -139,17 +141,17 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   16 hrs 57 mins      █████████████████████████   99.96 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   21 hrs 30 mins      █████████████████████████   99.97 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crewbot                  16 hrs 57 mins      █████████████████████████   100.00 % 
+crewbot                  21 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -169,7 +171,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 22:58:05 UTC
+ Last Updated on 15/04/2024 18:38:54 UTC
 <!--END_SECTION:waka-->
   
 </details>
