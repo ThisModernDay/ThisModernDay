@@ -100,13 +100,15 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -141,20 +143,20 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   12 hrs 26 mins      ██████████████████░░░░░░░   71.16 % 
-Other                    4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Python                   15 hrs 55 mins      ██████████████████░░░░░░░   73.86 % 
+Other                    5 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-raven                    12 hrs 47 mins      ██████████████████░░░░░░░   73.15 % 
-hyperdrive               4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-textuallama              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+raven                    16 hrs 52 mins      ████████████████████░░░░░   78.22 % 
+hyperdrive               4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+textuallama              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      17 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +176,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2024 18:38:53 UTC
+ Last Updated on 02/06/2024 18:39:28 UTC
 <!--END_SECTION:waka-->
   
 </details>
