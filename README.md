@@ -100,15 +100,13 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -143,20 +141,19 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   22 hrs 10 mins      █████████████████████░░░░   82.63 % 
-Other                    4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Python                   23 hrs 36 mins      █████████████████████░░░░   83.48 % 
+Other                    4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-raven                    26 hrs 43 mins      █████████████████████████   99.58 % 
-hyperdrive               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+raven                    28 hrs 17 mins      █████████████████████████   99.98 % 
 textuallama              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      26 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -176,7 +173,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2024 18:40:32 UTC
+ Last Updated on 05/06/2024 18:40:19 UTC
 <!--END_SECTION:waka-->
   
 </details>
