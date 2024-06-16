@@ -100,11 +100,15 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -139,18 +143,18 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 19 mins       ██████████████████░░░░░░░   70.96 % 
-Other                    1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+Python                   2 hrs 47 mins       ███████████████████░░░░░░   77.18 % 
+Other                    49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ttop                     5 hrs 31 mins       ███████████████████████░░   90.42 % 
-pysand                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+ttop                     3 hrs 1 min         █████████████████████░░░░   83.83 % 
+pysand                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 
 💻 Operating System: 
-Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -170,7 +174,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:39:43 UTC
+ Last Updated on 16/06/2024 18:40:02 UTC
 <!--END_SECTION:waka-->
   
 </details>
