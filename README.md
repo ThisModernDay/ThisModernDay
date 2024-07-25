@@ -100,6 +100,8 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -170,7 +172,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:43:11 UTC
+ Last Updated on 25/07/2024 18:39:59 UTC
 <!--END_SECTION:waka-->
   
 </details>
