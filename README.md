@@ -100,15 +100,13 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.1 kB Used in GitHub's Storage 
- > 
-> 🏆 47 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -143,19 +141,19 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 22 mins       ███████████████████████░░   93.35 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Python                   4 hrs 31 mins       ███████████████████████░░   93.37 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rift-quake               4 hrs 41 mins       █████████████████████████   99.95 % 
+rift-quake               4 hrs 50 mins       █████████████████████████   99.95 % 
 raven                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -175,7 +173,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 18:40:18 UTC
+ Last Updated on 28/07/2024 18:40:37 UTC
 <!--END_SECTION:waka-->
   
 </details>
