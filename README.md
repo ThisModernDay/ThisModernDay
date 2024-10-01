@@ -100,15 +100,13 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 40.3 kB Used in GitHub's Storage 
- > 
-> 🏆 56 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -178,7 +176,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2024 18:43:20 UTC
+ Last Updated on 01/10/2024 18:46:11 UTC
 <!--END_SECTION:waka-->
   
 </details>
