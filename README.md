@@ -108,6 +108,8 @@
 
 > 📦 41.3 kB Used in GitHub's Storage 
  > 
+> 🏆 77 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -171,7 +173,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:46:58 UTC
+ Last Updated on 30/11/2024 18:44:52 UTC
 <!--END_SECTION:waka-->
   
 </details>
