@@ -100,13 +100,13 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 41.4 kB Used in GitHub's Storage 
+> 📦 41.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -174,7 +174,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 18:42:32 UTC
+ Last Updated on 06/01/2025 18:45:46 UTC
 <!--END_SECTION:waka-->
   
 </details>
