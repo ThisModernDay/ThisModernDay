@@ -108,6 +108,8 @@
 
 > 📦 41.4 kB Used in GitHub's Storage 
  > 
+> 🏆 2 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -141,16 +143,20 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 4 mins         ███████████░░░░░░░░░░░░░░   44.24 % 
+Bash                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+TSConfig                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Docker                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nexus                    2 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +175,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 18:47:23 UTC
+ Last Updated on 14/03/2025 18:46:09 UTC
 <!--END_SECTION:waka-->
   
 </details>
