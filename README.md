@@ -100,11 +100,15 @@
 <summary>My coding stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 41.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -139,18 +143,16 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Swift                    1 hr                ████████████████████░░░░░   79.06 % 
-Markdown                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Swift                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 16 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wordweaver               1 hr                ████████████████████░░░░░   79.06 % 
-medi8or                  16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+wordweaver               1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -168,7 +170,7 @@ CSS                      2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:45:26 UTC
+ Last Updated on 31/08/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
   
 </details>
