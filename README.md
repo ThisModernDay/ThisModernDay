@@ -143,19 +143,16 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               14 mins             ███████████████░░░░░░░░░░   59.46 % 
-Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   33.42 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mindwell                 23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -173,7 +170,7 @@ CSS                      2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2025 18:50:08 UTC
+ Last Updated on 20/11/2025 18:51:54 UTC
 <!--END_SECTION:waka-->
   
 </details>
