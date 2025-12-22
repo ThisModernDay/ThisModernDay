@@ -184,12 +184,7 @@ CSS                      2 repos             █████░░░░░░�
 <summary>My latest YouTube videos</summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I.R.I.S Isn't happy with you #shorts](https://ytcards.demolab.com/?id=gZgR7GOWGQE&title=I.R.I.S+Isn%27t+happy+with+you+%23shorts&lang=en&timestamp=1675890507&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I.R.I.S Isn't happy with you #shorts")](https://www.youtube.com/shorts/gZgR7GOWGQE)
-[![Blender Hard Surface Tutorial - Hangar Stairs](https://ytcards.demolab.com/?id=K1rdE2va7NI&title=Blender+Hard+Surface+Tutorial+-+Hangar+Stairs&lang=en&timestamp=1674425034&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Blender Hard Surface Tutorial - Hangar Stairs")](https://www.youtube.com/watch?v=K1rdE2va7NI)
-[![Making a 60% RGB Keyboard LIVE](https://ytcards.demolab.com/?id=KwHHxo6cOII&title=Making+a+60%25+RGB+Keyboard+LIVE&lang=en&timestamp=1672608825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making a 60% RGB Keyboard LIVE")](https://www.youtube.com/watch?v=KwHHxo6cOII)
-[![Blender Default Cube Unsolved Mysteries #shorts](https://ytcards.demolab.com/?id=L-rN301GcfU&title=Blender+Default+Cube+Unsolved+Mysteries+%23shorts&lang=en&timestamp=1669141329&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Blender Default Cube Unsolved Mysteries #shorts")](https://www.youtube.com/shorts/L-rN301GcfU)
-[![Model a Watchface in blender #shorts](https://ytcards.demolab.com/?id=NKO6M2-Vlk4&title=Model+a+Watchface+in+blender+%23shorts&lang=en&timestamp=1664314456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Model a Watchface in blender #shorts")](https://www.youtube.com/shorts/NKO6M2-Vlk4)
-[![5 Useful Blender Tips #shorts](https://ytcards.demolab.com/?id=7YdfRYSbhts&title=5+Useful+Blender+Tips+%23shorts&lang=en&timestamp=1664231551&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 Useful Blender Tips #shorts")](https://www.youtube.com/shorts/7YdfRYSbhts)
+
 <!-- END YOUTUBE-CARDS -->
 
 </details>
