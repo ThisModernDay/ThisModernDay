@@ -102,7 +102,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -143,19 +143,16 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    21 mins             ██████████████░░░░░░░░░░░   54.95 % 
-TSConfig                 10 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pca                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -173,7 +170,7 @@ CSS                      2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ThisModernDay/ThisModernDay/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 18:52:20 UTC
+ Last Updated on 27/12/2025 18:51:14 UTC
 <!--END_SECTION:waka-->
   
 </details>
